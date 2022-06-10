@@ -14,6 +14,8 @@ To learn more before you start working with chain_cloud, see the following docum
 
 If you want to start working on your project right away, you might want to try the following commands:
 
+doing some modify to readme.me file
+
 ```bash
 cd chain_cloud/
 dfx help
